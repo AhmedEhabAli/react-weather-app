@@ -1,1 +1,2 @@
-Open https://ahmedehabali.github.io/react-weather-app/ to view it in your browser.
+To browse the application, visit the following link:
+https://ahmedehabali.github.io/react-weather-app/
